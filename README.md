@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @afrobillionaire
-- 👀 Prépa MPSI/MP - Ingénieur Géophysicien
+Hi, I’m @afrobillionaire
+👋 Data Science Passionate
+👀 Geophysicist Engineer
+
 
 <!---
 afrobillionaire/afrobillionaire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
