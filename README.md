@@ -1,6 +1,4 @@
-Hi, I’m @afrobillionaire
-👋 Data Science Passionate
-👀 Geophysicist Engineer
+👋 Data Science Passionate | Background Geophysicist Engineer
 
 
 <!---
